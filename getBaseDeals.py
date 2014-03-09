@@ -2,7 +2,6 @@
 # The MIT License (MIT)
 # Copyright (c) 2014 Michael Barnard, hi@michaelbarnard.info
 
-
 import urllib2
 import json
 import csv
